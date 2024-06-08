@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.example.unitest.second.store.StoreTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2024-06-07T16:35:31" hostname="jkui-MacBookPro.local" time="0.024">
-  <properties/>
-  <testcase name="Purchase_fails_when_not_enough_inventory()" classname="com.example.unitest.second.store.StoreTest" time="0.024"/>
-  <testcase name="Purchase_succeeds_enough_inventory()" classname="com.example.unitest.second.store.StoreTest" time="0.0"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
